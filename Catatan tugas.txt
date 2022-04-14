@@ -1,0 +1,5 @@
+1. Username:wimora
+   Password: 123456789
+
+2. Nama database: pthashmicro
+   Lokasi: folder database
